@@ -9076,3 +9076,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor."
+
+*Generated with ❤️ by Quotivation Bot*
+
