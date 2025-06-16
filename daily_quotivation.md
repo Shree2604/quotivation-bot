@@ -148,3 +148,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "In order to write about life first you must live it."
+
+*Generated with ❤️ by Quotivation Bot*
+
