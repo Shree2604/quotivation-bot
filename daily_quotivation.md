@@ -14320,3 +14320,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Be happy for this moment. This moment is your life."
+
+*Generated with ❤️ by Quotivation Bot*
+
