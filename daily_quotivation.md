@@ -6304,3 +6304,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The big lesson in life, baby, is never be scared of anyone or anything."
+
+*Generated with ❤️ by Quotivation Bot*
+
