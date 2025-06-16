@@ -1198,3 +1198,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "Life's tragedy is that we get old too soon and wise too late."
+
+*Generated with ❤️ by Quotivation Bot*
+
