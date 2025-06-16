@@ -7492,3 +7492,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "When you reach the end of your rope, tie a knot in it and hang on."
+
+*Generated with ❤️ by Quotivation Bot*
+
