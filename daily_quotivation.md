@@ -820,3 +820,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall."
+
+*Generated with ❤️ by Quotivation Bot*
+
