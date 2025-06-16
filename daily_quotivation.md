@@ -4114,3 +4114,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "Do what you can, with what you have, where you are."
+
+*Generated with ❤️ by Quotivation Bot*
+
