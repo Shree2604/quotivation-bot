@@ -238,3 +238,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The expert in anything was once a beginner."
+
+*Generated with ❤️ by Quotivation Bot*
+
