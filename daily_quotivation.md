@@ -2092,3 +2092,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The mind is everything. What you think you become."
+
+*Generated with ❤️ by Quotivation Bot*
+
