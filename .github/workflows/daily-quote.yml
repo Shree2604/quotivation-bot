@@ -37,10 +37,12 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push if changed
+        env:
+          TOKEN: ${{ secrets.QUOTE_BOT_PAT }}
         run: |
           git add daily_quotivation.md
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "📝 Add daily AI motivational quote"
-            git remote set-url origin https://x-access-token:${{ secrets.QUOTE_BOT_PAT }}@github.com/${{ github.repository }}.git
-            git push
+            git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+            git push origin HEAD:main
           )
