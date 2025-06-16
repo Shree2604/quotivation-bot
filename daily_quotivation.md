@@ -13912,3 +13912,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life's most persistent and urgent question is, 'What are you doing for others?'"
+
+*Generated with ❤️ by Quotivation Bot*
+
