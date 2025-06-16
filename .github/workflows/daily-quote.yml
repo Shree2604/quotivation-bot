@@ -1,9 +1,10 @@
 name: Daily Quote Generation
 
 on:
+  push:                     # 🚀 Trigger on every commit
   schedule:
-    - cron: '30 18 * * *'  # Runs at 12:00 AM Indian time (IST, UTC+5:30)
-  workflow_dispatch:     # Allows manual triggering
+    - cron: '30 18 * * *'   # 🕛 Runs daily at 12:00 AM IST (UTC+5:30)
+  workflow_dispatch:        # 🧪 Allows manual run from GitHub UI
 
 jobs:
   generate-quote:
