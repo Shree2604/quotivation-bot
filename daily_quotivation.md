@@ -14608,3 +14608,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+
+*Generated with ❤️ by Quotivation Bot*
+
