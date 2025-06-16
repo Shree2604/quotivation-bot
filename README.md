@@ -1,8 +1,10 @@
 # 🤖 Shree Quotivation Bot
 
+# Shree Quotivation Bot
+
 > "Neural networks don't actually think; they just find patterns we're too busy to notice."
-> 
-> *— Quote of the Day*
+
+*— Quote of the Day - June 15, 2023*
 
 [![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/Shree2604/quotivation-bot/daily-quote.yml?style=flat-square&logo=github&label=Daily%20Quote%20Generation)](https://github.com/Shree2604/quotivation-bot/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/Shree2604/quotivation-bot?style=flat-square&logo=git)](https://github.com/Shree2604/quotivation-bot/commits/main)
