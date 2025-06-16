@@ -9946,3 +9946,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "None of us is as smart as all of us."
+
+*Generated with ❤️ by Quotivation Bot*
+
