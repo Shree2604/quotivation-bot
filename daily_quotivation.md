@@ -14860,3 +14860,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Keep calm and carry on."
+
+*Generated with ❤️ by Quotivation Bot*
+
