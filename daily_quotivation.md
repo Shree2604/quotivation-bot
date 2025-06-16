@@ -5314,3 +5314,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Artificial intelligence will probably most likely lead to the end of the world, but in the meantime, there'll be great companies."
+
+*Generated with ❤️ by Quotivation Bot*
+
