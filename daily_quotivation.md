@@ -484,3 +484,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The way to get started is to quit talking and begin doing."
+
+*Generated with ❤️ by Quotivation Bot*
+
