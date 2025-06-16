@@ -3,8 +3,8 @@ name: Daily Quote Generation
 on:
   push:                      # Trigger on every commit
   schedule:
-    - cron: '30 18 * * *'    # Runs daily at 12:00 AM IST (UTC+5:30)
-  workflow_dispatch:         # Allows manual run from GitHub UI
+    - cron: '30 18 * * *'    # Daily at 12:00 AM IST (UTC+5:30)
+  workflow_dispatch:         # Allow manual run from GitHub UI
 
 jobs:
   generate-quote:
@@ -39,5 +39,6 @@ jobs:
           git add daily_quotivation.md
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "📝 Add daily AI motivational quote"
-            git push https://x-access-token:${TOKEN}@github.com/Shree2604/quotivation-bot.git HEAD:main
+            git remote set-url origin https://x-access-token:${TOKEN}@github.com/Shree2604/quotivation-bot.git
+            git push origin HEAD:main
           )
