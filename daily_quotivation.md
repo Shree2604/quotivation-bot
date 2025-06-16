@@ -11002,3 +11002,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "It does not matter how slowly you go as long as you do not stop."
+
+*Generated with ❤️ by Quotivation Bot*
+
