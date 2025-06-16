@@ -2566,3 +2566,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "Don't settle for what life gives you; make life better and build something."
+
+*Generated with ❤️ by Quotivation Bot*
+
