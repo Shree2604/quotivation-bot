@@ -12544,3 +12544,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Don't watch the clock; do what it does. Keep going."
+
+*Generated with ❤️ by Quotivation Bot*
+
