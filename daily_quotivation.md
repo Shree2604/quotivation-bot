@@ -1264,3 +1264,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "Not how long, but how well you have lived is the main thing."
+
+*Generated with ❤️ by Quotivation Bot*
+
