@@ -25,7 +25,7 @@ jobs:
           pip install requests pytz
 
       - name: Generate quote
-        run: python scripts/generate_quote.py
+        run: python -m scripts.generate_quote
 
       - name: Configure Git identity
         run: |
