@@ -9,6 +9,8 @@ on:
 jobs:
   generate-quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -29,16 +31,13 @@ jobs:
 
       - name: Configure Git identity
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push if changed
-        env:
-          TOKEN: ${{ secrets.QUOTE_BOT_PAT }}
         run: |
           git add daily_quotivation.md
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "📝 Add daily AI motivational quote"
-            git remote set-url origin https://x-access-token:${TOKEN}@github.com/Shree2604/quotivation-bot.git
-            git push origin HEAD:main
+            git push
           )
