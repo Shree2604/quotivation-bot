@@ -11962,3 +11962,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Quality is not an act, it is a habit."
+
+*Generated with ❤️ by Quotivation Bot*
+
