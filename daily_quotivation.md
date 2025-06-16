@@ -5020,3 +5020,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Commit often, perfect later, publish once."
+
+*Generated with ❤️ by Quotivation Bot*
+
