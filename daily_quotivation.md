@@ -166,3 +166,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "You're only here for a short visit. Don't hurry, don't worry. And be sure to smell the flowers along the way."
+
+*Generated with ❤️ by Quotivation Bot*
+
