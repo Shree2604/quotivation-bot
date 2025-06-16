@@ -14884,3 +14884,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The whole secret of a successful life is to find out what is one's destiny to do, and then do it."
+
+*Generated with ❤️ by Quotivation Bot*
+
