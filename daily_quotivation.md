@@ -6040,3 +6040,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The greatest pleasure of life is love."
+
+*Generated with ❤️ by Quotivation Bot*
+
