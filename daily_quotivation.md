@@ -12280,3 +12280,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life is a succession of lessons which must be lived to be understood."
+
+*Generated with ❤️ by Quotivation Bot*
+
