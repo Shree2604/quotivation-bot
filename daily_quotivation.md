@@ -850,3 +850,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The difference between a junior and senior developer is knowing when NOT to use AI."
+
+*Generated with ❤️ by Quotivation Bot*
+
