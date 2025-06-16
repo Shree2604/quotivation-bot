@@ -10594,3 +10594,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "You have succeeded in life when all you really want is only what you really need."
+
+*Generated with ❤️ by Quotivation Bot*
+
