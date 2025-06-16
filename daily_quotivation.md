@@ -5428,3 +5428,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Everything negative – pressure, challenges – is all an opportunity for me to rise."
+
+*Generated with ❤️ by Quotivation Bot*
+
