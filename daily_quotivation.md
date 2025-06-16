@@ -3478,3 +3478,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "In the end, it's not the years in your life that count. It's the life in your years."
+
+*Generated with ❤️ by Quotivation Bot*
+
