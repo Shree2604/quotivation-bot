@@ -5446,3 +5446,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "I have not failed. I've just found 10,000 ways that won't work."
+
+*Generated with ❤️ by Quotivation Bot*
+
