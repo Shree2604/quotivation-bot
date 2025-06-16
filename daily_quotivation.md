@@ -6862,3 +6862,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Your GitHub streak doesn't define you, but it does show your consistency."
+
+*Generated with ❤️ by Quotivation Bot*
+
