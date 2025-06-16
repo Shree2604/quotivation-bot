@@ -3544,3 +3544,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."
+
+*Generated with ❤️ by Quotivation Bot*
+
