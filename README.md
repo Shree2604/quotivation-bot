@@ -1,4 +1,4 @@
-# 🤖 Quotivation Bot
+# 🤖 Shree Quotivation Bot
 
 > "Neural networks don't actually think; they just find patterns we're too busy to notice."
 > 
