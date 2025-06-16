@@ -2836,3 +2836,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The only way to do great work is to love what you do."
+
+*Generated with ❤️ by Quotivation Bot*
+
