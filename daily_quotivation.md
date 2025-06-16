@@ -2560,3 +2560,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The way I see it, if you want the rainbow, you gotta put up with the rain."
+
+*Generated with ❤️ by Quotivation Bot*
+
