@@ -1888,3 +1888,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The only person you are destined to become is the person you decide to be."
+
+*Generated with ❤️ by Quotivation Bot*
+
