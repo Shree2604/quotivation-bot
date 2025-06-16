@@ -7036,3 +7036,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The best way to predict the future is to create it."
+
+*Generated with ❤️ by Quotivation Bot*
+
