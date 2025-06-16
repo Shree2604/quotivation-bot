@@ -4222,3 +4222,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "The unexamined life is not worth living."
+
+*Generated with ❤️ by Quotivation Bot*
+
