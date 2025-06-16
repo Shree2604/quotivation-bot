@@ -6,7 +6,7 @@ from pathlib import Path
 import pytz
 import re
 
-from scripts.quotes_data import QUOTES
+from .quotes_data import QUOTES
 
 import random
 import datetime
