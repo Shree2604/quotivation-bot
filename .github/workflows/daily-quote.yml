@@ -1,0 +1,41 @@
+name: Daily Quote Generation
+
+on:
+  schedule:
+    - cron: '30 18 * * *'  # Runs at 12:00 AM Indian time (IST, UTC+5:30)
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  generate-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+      
+      - name: Generate quote
+        run: python scripts/generate_quote.py
+      
+      - name: Configure Git
+        run: |
+          git config --local user.email "Shree2604@github.com"
+          git config --local user.name "Shree2604"
+      
+      - name: Commit and push if changed
+        run: |
+          git add daily_quotivation.md
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "📝 Add daily AI motivational quote"
+            git push
+          )
