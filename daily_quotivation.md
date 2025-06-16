@@ -14332,3 +14332,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Curiosity about life in all of its aspects, I think, is still the secret of great creative people."
+
+*Generated with ❤️ by Quotivation Bot*
+
