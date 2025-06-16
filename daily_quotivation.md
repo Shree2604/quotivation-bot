@@ -3250,3 +3250,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "You will face many defeats in life, but never let yourself be defeated."
+
+*Generated with ❤️ by Quotivation Bot*
+
