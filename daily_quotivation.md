@@ -12796,3 +12796,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "We may encounter many defeats but we must not be defeated."
+
+*Generated with ❤️ by Quotivation Bot*
+
