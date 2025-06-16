@@ -9712,3 +9712,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Believe you can and you're halfway there."
+
+*Generated with ❤️ by Quotivation Bot*
+
