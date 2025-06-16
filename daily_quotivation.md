@@ -6694,3 +6694,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life is a tragedy when seen in close-up, but a comedy in long-shot."
+
+*Generated with ❤️ by Quotivation Bot*
+
