@@ -3784,3 +3784,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 16, 2025
+
+> "You only live once, but if you do it right, once is enough."
+
+*Generated with ❤️ by Quotivation Bot*
+
