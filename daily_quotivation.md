@@ -11656,3 +11656,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The hardest part of AI isn't the algorithms, it's explaining to humans what the algorithms are doing."
+
+*Generated with ❤️ by Quotivation Bot*
+
