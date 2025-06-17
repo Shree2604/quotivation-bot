@@ -28210,3 +28210,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Too many of us are not living our dreams because we are living our fears."
+
+*Generated with ❤️ by Quotivation Bot*
+
