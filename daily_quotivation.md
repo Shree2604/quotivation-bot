@@ -28930,3 +28930,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The key to artificial intelligence has always been the representation."
+
+*Generated with ❤️ by Quotivation Bot*
+
