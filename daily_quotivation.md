@@ -27988,3 +27988,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life is never easy. There is work to be done and obligations to be met – obligations to truth, to justice, and to liberty."
+
+*Generated with ❤️ by Quotivation Bot*
+
