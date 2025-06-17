@@ -23794,3 +23794,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "If you want to lift yourself up, lift up someone else."
+
+*Generated with ❤️ by Quotivation Bot*
+
