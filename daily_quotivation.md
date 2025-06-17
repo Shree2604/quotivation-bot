@@ -31708,3 +31708,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Try not to become a person of success, but rather try to become a person of value."
+
+*Generated with ❤️ by Quotivation Bot*
+
