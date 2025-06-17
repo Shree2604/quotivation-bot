@@ -24706,3 +24706,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life imposes things on you that you can't control, but you still have the choice of how you're going to live through this."
+
+*Generated with ❤️ by Quotivation Bot*
+
