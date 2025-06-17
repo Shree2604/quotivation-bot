@@ -18820,3 +18820,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "What we think, we become."
+
+*Generated with ❤️ by Quotivation Bot*
+
