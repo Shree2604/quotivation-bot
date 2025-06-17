@@ -24850,3 +24850,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "If you're going through hell, keep going."
+
+*Generated with ❤️ by Quotivation Bot*
+
