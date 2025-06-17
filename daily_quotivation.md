@@ -18922,3 +18922,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Technology is a useful servant but a dangerous master."
+
+*Generated with ❤️ by Quotivation Bot*
+
