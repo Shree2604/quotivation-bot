@@ -20092,3 +20092,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important."
+
+*Generated with ❤️ by Quotivation Bot*
+
