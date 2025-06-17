@@ -21682,3 +21682,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The development of full artificial intelligence could spell the end of the human race."
+
+*Generated with ❤️ by Quotivation Bot*
+
