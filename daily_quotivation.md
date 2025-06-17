@@ -18700,3 +18700,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The secret of getting ahead is getting started."
+
+*Generated with ❤️ by Quotivation Bot*
+
