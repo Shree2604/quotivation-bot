@@ -23476,3 +23476,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life is like a coin. You can spend it any way you wish, but you only spend it once."
+
+*Generated with ❤️ by Quotivation Bot*
+
