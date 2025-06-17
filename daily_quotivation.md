@@ -19090,3 +19090,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Do all the good you can, for all the people you can, in all the ways you can, as long as you can."
+
+*Generated with ❤️ by Quotivation Bot*
+
