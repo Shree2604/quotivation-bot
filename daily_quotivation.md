@@ -28036,3 +28036,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "We all have two lives. The second one starts when we realize we only have one."
+
+*Generated with ❤️ by Quotivation Bot*
+
