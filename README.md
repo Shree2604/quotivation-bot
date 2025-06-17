@@ -84,6 +84,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - Inspired by the AI development community
 - Built with GitHub Actions
 
----
+
 
 <p align="center">Made with ❤️ for developers who love AI</p>
