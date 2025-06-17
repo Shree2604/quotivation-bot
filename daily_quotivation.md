@@ -31984,3 +31984,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Life shrinks or expands in proportion to one's courage."
+
+*Generated with ❤️ by Quotivation Bot*
+
