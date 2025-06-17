@@ -21496,3 +21496,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The great myth of our times is that technology is communication."
+
+*Generated with ❤️ by Quotivation Bot*
+
