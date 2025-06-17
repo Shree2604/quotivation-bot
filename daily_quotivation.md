@@ -17548,3 +17548,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The only limit to our realization of tomorrow will be our doubts of today."
+
+*Generated with ❤️ by Quotivation Bot*
+
