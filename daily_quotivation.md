@@ -19108,3 +19108,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "The real danger is not that computers will begin to think like men, but that men will begin to think like computers."
+
+*Generated with ❤️ by Quotivation Bot*
+
