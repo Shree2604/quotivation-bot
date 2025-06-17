@@ -1,6 +1,5 @@
 name: Daily Quote Generation
-on:
-  push:                      # Trigger on every commit
+on:                    
   schedule:
     - cron: '30 18 * * *'    # Daily at 12:00 AM IST (UTC+5:30) - FIXED!
   workflow_dispatch:         # Allow manual run from GitHub UI
