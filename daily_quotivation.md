@@ -25372,3 +25372,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."
+
+*Generated with ❤️ by Quotivation Bot*
+
