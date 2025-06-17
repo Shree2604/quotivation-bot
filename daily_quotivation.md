@@ -20422,3 +20422,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 17, 2025
+
+> "AI is the art of making computers do things that would be considered intelligent if done by humans."
+
+*Generated with ❤️ by Quotivation Bot*
+
