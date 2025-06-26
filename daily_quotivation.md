@@ -53,3 +53,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - June 27, 2025
+
+> "Life is ten percent what happens to you and ninety percent how you respond to it."
+
+*Generated with ❤️ by Quotivation Bot*
+
