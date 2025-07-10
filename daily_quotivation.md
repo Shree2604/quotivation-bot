@@ -137,3 +137,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - July 11, 2025
+
+> "Knowing is not enough; we must apply. Wishing is not enough; we must do."
+
+*Generated with ❤️ by Quotivation Bot*
+
