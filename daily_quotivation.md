@@ -293,3 +293,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - August 06, 2025
+
+> "If you want to live a happy life, tie it to a goal, not to people or things."
+
+*Generated with ❤️ by Quotivation Bot*
+
