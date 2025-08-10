@@ -323,3 +323,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - August 11, 2025
+
+> "Many of life's failures are people who did not realize how close they were to success when they gave up."
+
+*Generated with ❤️ by Quotivation Bot*
+
