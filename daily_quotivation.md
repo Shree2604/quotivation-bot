@@ -347,3 +347,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - August 15, 2025
+
+> "Live as if you were to die tomorrow. Learn as if you were to live forever."
+
+*Generated with ❤️ by Quotivation Bot*
+
