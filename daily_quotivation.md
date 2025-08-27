@@ -425,3 +425,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - August 28, 2025
+
+> "The unexamined life is not worth living."
+
+*Generated with ❤️ by Quotivation Bot*
+
