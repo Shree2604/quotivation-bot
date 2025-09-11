@@ -515,3 +515,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - September 12, 2025
+
+> "Never let the fear of striking out keep you from playing the game."
+
+*Generated with ❤️ by Quotivation Bot*
+
