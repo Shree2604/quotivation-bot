@@ -539,3 +539,9 @@
 
 *Generated with ❤️ by Quotivation Bot*
 
+# Quote of the Day - September 16, 2025
+
+> "The harder I work, the luckier I get."
+
+*Generated with ❤️ by Quotivation Bot*
+
